@@ -1,0 +1,1 @@
+export const agrochain_addr="0xE11D9e09E1EcEa8263C87b1A0E2AB88f5A6FA3Ca"
